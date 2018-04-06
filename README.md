@@ -13,10 +13,10 @@
 
 
 
-Thomas Kaar
-Complete
-gcc -o piku piku.s
-./piku
+*Thomas Kaar
+*Complete
+*gcc -o piku piku.s
+*./piku
 
 
 
