@@ -1,8 +1,11 @@
 # CPE 315 Lab 1 -- Piku
 ## Things to include in your README
 *Thomas Kaar
+
 *Complete
+
 *gcc -o piku piku.s
+
 *./piku
 
 
